@@ -6,8 +6,8 @@ A poucos meses tomei a decisão de ingressar nos estudos na área de desenvolvim
 Inicialmente na linguagem C#, mas já com proposito de estudar diversas tecnologias.
  <div>
   <a href="https://github.com/felipecassimirodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecassimirodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecassimirodev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecassimirodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecassimirodev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
