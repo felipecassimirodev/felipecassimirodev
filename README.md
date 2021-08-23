@@ -1,7 +1,8 @@
-- 👋 Ola eu sou o Felipe Cassimiro
--💻 Aluno do programa entra  21 Blusoft. 
--Apaixonado por criar, desenvolver e resolver soluções tecnológicas.
-
+###
+- 👋 Ola eu sou o Felipe Cassimiro.
+- 💻 Aluno do programa entra  21 Blusoft. 
+- Apaixonado por criar, desenvolver e resolver soluções tecnológicas.
+###
  <div>
   <a href="https://github.com/felipecassimirodev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecassimirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
