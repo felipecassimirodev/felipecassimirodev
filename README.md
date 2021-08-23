@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @felipecassimirodev
-# Ola eu sou o Felipe Cassimiro
+- 👋 Ola eu sou o Felipe Cassimiro
+-💻 Aluno do programa entra  21 Blusoft. 
+-Apaixonado por criar, desenvolver e resolver soluções tecnológicas.
 
-Aluno do programa entra  21 Blusoft.  Apaixonado por criar, desenvolver e resolver soluções tecnológicas.
-A poucos meses tomei a decisão de ingressar nos estudos na área de desenvolvimento de software.
-Inicialmente na linguagem C#, mas já com proposito de estudar diversas tecnologias.
  <div>
   <a href="https://github.com/felipecassimirodev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecassimirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,3 +22,4 @@ Inicialmente na linguagem C#, mas já com proposito de estudar diversas tecnolog
   <a href = "mailto:fcassimiro94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-cassimiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=554792456842&text="><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</div>
