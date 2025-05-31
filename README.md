@@ -1,7 +1,13 @@
 ###
 - 👋 Ola eu sou o Felipe Cassimiro.
-- 💻 Aluno do programa entra  21 Blusoft. 
-- Apaixonado por criar, desenvolver e resolver soluções tecnológicas.
+Sou Desenvolvedor Full Stack com foco em .NET e mais de 3 anos de experiência em desenvolvimento de aplicações web corporativas. Atuo com C#, .NET Core, ASP.NET, APIs RESTful e Angular, criando soluções escaláveis e de alta performance para áreas como Help Desk, Service Desk e automação de processos.
+
+Tenho sólida experiência com SQL Server e MongoDB, construção de microserviços, integração contínua com Azure DevOps, versionamento com Git e conteinerização usando Docker. Também trabalho com sistemas legados (ASP Classic, VB6), garantindo compatibilidade e modernização contínua.
+
+Atualmente, lidero tecnicamente um produto interno, desde a concepção até o deploy em produção, aplicando práticas ágeis com Scrum e priorizando qualidade de código, arquitetura limpa (MVC) e entregas frequentes.
+
+Estou sempre buscando aprendizado contínuo e novas tecnologias, e atualmente exploro projetos pessoais em Inteligência Artificial aplicada a .NET com RAG (Retrieval-Augmented Generation).
+
 ###
  <div>
   <a href="https://github.com/felipecassimirodev">
@@ -24,3 +30,12 @@
   <a href="https://www.linkedin.com/in/felipe-cassimiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=554792456842&text="><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
+
+#DotNetDeveloper 
+#CSharp 
+#FullStackDeveloper 
+#BackendDeveloper 
+#DesenvolvedorNET 
+#AspNetCore 
+#AngularDeveloper 
+#WebDevelopment
